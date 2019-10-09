@@ -8,7 +8,7 @@ To open a new support issue, click on the Issues tab and then the New Issue butt
 
 * An idea for improving a feature or suggesting one? [Our backlog](https://trello.com/b/smQc7tzd/cucumber-for-jira-what-we-are-cooking-up) is available for everyone! Use the search system to see if we already have planned some action that will answer your needs and add a vote on the card
 
-* You have questions about the best way to use Cucumber for Jira, or about BDD? [Atlassian-hosted discussions](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/ct-p/atlassian-marketplace) connect you to other customers who use Cucumber for Jira
+* You have questions about the best way to use Cucumber for Jira? [Atlassian-hosted discussions](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/ct-p/atlassian-marketplace) connect you to other customers who use Cucumber for Jira
 
 ## How to open a new issue
 
