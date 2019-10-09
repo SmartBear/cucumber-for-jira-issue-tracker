@@ -3,7 +3,10 @@ This repository tracks bugs and feature requests for Cucumber for Jira.
 To open a new support issue, click on the Issues tab and then the New Issue button.
 
 ## Before opening a new issue
+
 * Bad performances, application not responding? Check [our status page](https://cucumberforjira.statuspage.io/)!
+
+* An idea for improving a feature or suggesting one? [Our backlog](https://trello.com/b/smQc7tzd/cucumber-for-jira-what-we-are-cooking-up) is available for everyone! Use the search system to see if we already have planned some action that will answer your needs and add a vote on the card
 
 ## How to open a new issue
 
