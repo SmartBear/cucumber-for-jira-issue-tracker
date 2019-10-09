@@ -15,6 +15,8 @@ This repository tracks bugs and feature requests for Cucumber for Jira.
 
 * Go to the [issues list](https://github.com/smartbear/cucumber-for-jira-issue-tracker/issues) and create a [new issue](https://github.com/smartbear/cucumber-for-jira-issue-tracker/issues/new).
 
+* Choose _Bug report_ or _Feature request_ and click on _Get started_
+
 * Describe the issue with as many details as possible (do not hesitate to join screenshots, videos...).
 
 * Tell us if the issue is blocking, so we can prioritize its resolution.
