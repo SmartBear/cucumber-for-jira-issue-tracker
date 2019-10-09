@@ -1,6 +1,5 @@
 # Cucumber for Jira issue tracker
 This repository tracks bugs and feature requests for Cucumber for Jira. 
-To open a new support issue, click on the _Issues_ tab and then the _New Issue_ button.
 
 ## Before opening a new issue
 
