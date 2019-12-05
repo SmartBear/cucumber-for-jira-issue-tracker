@@ -5,7 +5,7 @@ This repository tracks bugs and feature requests for Cucumber for Jira.
 
 * Bad performances, application not responding? Check [our status page](https://cucumberforjira.statuspage.io/)!
 
-* Do you have any question about the best way to use Cucumber for Jira? [Atlassian-hosted discussions](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/ct-p/atlassian-marketplace) connect you to other customers who use Cucumber for Jira.
+* Do you have any question about the best way to use Cucumber for Jira? [Atlassian-hosted discussions](https://community.atlassian.com/t5/tag/addon-com.smartbear.cucumber/tg-p/category-id/atlassian-marketplace?_ga=2.187150632.1012257791.1575555661-2069737787.1536647198) connect you to other customers who use Cucumber for Jira.
 
 * Any idea for improving a feature or suggesting a new one? Check [our public backlog](https://trello.com/b/smQc7tzd/cucumber-for-jira-what-we-are-cooking-up)! Use the search system to see if we already have planned actions relevant to your needs and vote on the card.
 
